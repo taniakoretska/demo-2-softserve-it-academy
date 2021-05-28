@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <TaxNumber>367482</TaxNumber>
+    <Firstname>?????</Firstname>
+    <Lastname>Kor</Lastname>
+    <Birthdate>2000-07-04</Birthdate>
+  </Person>
+  <Person xsi:type="Doctor">
+    <TaxNumber>3208478</TaxNumber>
+    <Firstname>Olesya</Firstname>
+    <Lastname>Ivanenko</Lastname>
+    <Birthdate>1950-02-12</Birthdate>
+    <YearOfStartPractice>1985</YearOfStartPractice>
+    <Specialization>Therapist</Specialization>
+  </Person>
+  <Person xsi:type="Doctor">
+    <TaxNumber>82376829</TaxNumber>
+    <Firstname>Roman</Firstname>
+    <Lastname>Ivanenko</Lastname>
+    <Birthdate>1966-05-03</Birthdate>
+    <YearOfStartPractice>1992</YearOfStartPractice>
+    <Specialization>Oculist</Specialization>
+  </Person>
+</ArrayOfPerson>

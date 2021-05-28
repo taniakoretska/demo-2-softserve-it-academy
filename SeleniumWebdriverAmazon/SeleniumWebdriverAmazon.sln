@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumWebdriverAmazon", "SeleniumWebdriverAmazon.csproj", "{5F4EABC5-0B98-4BC7-A867-074576E61FC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F4EABC5-0B98-4BC7-A867-074576E61FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4EABC5-0B98-4BC7-A867-074576E61FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4EABC5-0B98-4BC7-A867-074576E61FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4EABC5-0B98-4BC7-A867-074576E61FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA55FD6E-EA57-499E-A9F8-26F99546C83F}
+	EndGlobalSection
+EndGlobal
